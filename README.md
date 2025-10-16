@@ -1,4 +1,6 @@
-# aqsaasif    (Library Lending System)
+# aqsaasif   
+
+(Library Lending System)
 
 ## Project Overview
 This project manages the borrowing and returning of books in a university library.
@@ -7,3 +9,9 @@ This project manages the borrowing and returning of books in a university librar
 - Python
 - StarUML
 - Git & GitHub
+
+
+## UML Diagram
+Use Case Diagram 
+Class Diagram 
+Activity Diagram 
